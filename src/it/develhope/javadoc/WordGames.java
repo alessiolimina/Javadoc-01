@@ -2,7 +2,7 @@ package it.develhope.javadoc;
 
 /**
  * This class represents Word Games
- * @author aless
+ * @author alessiolimina
  */
 public class WordGames {
 

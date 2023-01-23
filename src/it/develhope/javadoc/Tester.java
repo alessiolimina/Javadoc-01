@@ -2,7 +2,7 @@ package it.develhope.javadoc;
 
 /**
  * This class is a Tester class
- * @author aless
+ * @author alessiolimina
  */
 
 public class Tester {
