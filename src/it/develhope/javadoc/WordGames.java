@@ -18,7 +18,7 @@ public class WordGames {
 
     /**
      * This method gets the full name
-     * @param name is the name the we'll use
+     * @param name is the name that we'll use
      * @param surname is the surname that we'll use
      * @return is the return that we'll print
      */

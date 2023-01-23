@@ -16,7 +16,17 @@ public class Tester {
 
         WordGames wordgames = new WordGames();
 
+        /**
+         * Applying the addHelloWorld method to the new object
+         * Printing the result
+         */
+
         System.out.println(wordgames.addHelloWorld("World!"));
+
+        /**
+         * Applying the getFullName method to the new object
+         * Printing the result
+         */
 
         System.out.println(wordgames.getFullName("Alessio", "Limina"));
 

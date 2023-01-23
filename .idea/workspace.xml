@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88c8c011-514d-4b21-914a-b2958da8fd66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javadoc 01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/javadoc/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/develhope/javadoc/WordGames.java" afterDir="false" />
+    <list default="true" id="88c8c011-514d-4b21-914a-b2958da8fd66" name="Changes" comment="Exercise: javadoc-1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674471596732</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercise: javadoc-1">
+      <created>1674473984549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674473984549</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercise: javadoc-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise: javadoc-1" />
   </component>
 </project>
